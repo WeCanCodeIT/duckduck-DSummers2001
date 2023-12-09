@@ -26,7 +26,7 @@ public class Player {
             System.out.println("This emotion does not exist. I am neutral");
         }
         else{
-            System.out.println("Player: " + name +  "was selected.");
+            System.out.println("Player: " + name +  " was selected.");
             System.out.println("Congrats, you have found melancholy.");
         }
 
