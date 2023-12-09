@@ -23,7 +23,7 @@ public class Player {
         }
         else if(this.temperment == "Neutral"){
             System.out.println("Player: " + name + " was selected.");
-            System.out.println("This emotion does not exist. I am nuetral");
+            System.out.println("This emotion does not exist. I am neutral");
         }
         else{
             System.out.println("Player: " + name +  "was selected.");

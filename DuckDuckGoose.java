@@ -10,5 +10,7 @@ public class DuckDuckGoose{
         for(Player player:players){
             System.out.println("Player: "+player.name);
         }
+
+        players[(headCount -1) % players.length].selected();
     }
 }
